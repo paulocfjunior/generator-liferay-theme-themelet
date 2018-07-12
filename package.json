@@ -1,6 +1,6 @@
 {
   "name": "generator-liferay-theme-themelet",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Workaround to Generator with support to npm themelets",
   "directories": {
     "lib": "lib"
