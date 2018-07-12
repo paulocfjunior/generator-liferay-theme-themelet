@@ -1,0 +1,15 @@
+{
+	"name": "<%= layoutDirName %>",
+	"version": "<%= packageVersion %>",
+	"main": "package.json",
+	"keywords": [
+		"liferay-theme"
+	],
+	"liferayLayoutTemplate": {
+		"version": "<%= liferayVersion %>"
+	},
+	"devDependencies": {
+		"gulp": "^3.8.10",
+		"liferay-plugin-node-tasks": "*"
+	}
+}
